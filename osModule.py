@@ -94,3 +94,9 @@ f.seek(6)
 contenuChemin3 = f.read()
 print(contenuChemin3)
 f.close()
+
+'''os.path.join() -> concaténer'''
+
+
+
+
