@@ -1,4 +1,1 @@
-Avec le module "w" : 
-write sur un fichier pas vide écrase le contenu. 
-Avec le module "a" : 
-on ajoute à la fin sans écraser
+Ajout avec le module Path
